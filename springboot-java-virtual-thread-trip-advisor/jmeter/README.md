@@ -1,0 +1,1 @@
+jmeter -n -t TripPlanRequest.jmx -l ..\jtl\VirtualThreadTripPlanRequest.jtl
